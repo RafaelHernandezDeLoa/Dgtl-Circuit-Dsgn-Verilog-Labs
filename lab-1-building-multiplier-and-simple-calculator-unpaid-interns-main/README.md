@@ -3,7 +3,7 @@
 ### Due: 2/8/2023
 
 <ins>Part 1:</ins>
-A binary multiplier can be implemented through multiple instantiations of Ripple Carry Adders, however they are inefficient since each operation is dependent on receiving preceding carries in order for the final output to be displayed. To combat this in the implementation of our Multiplier circuit, we used a **carry save array** configuration. m<sub>i</sub>q<sub>j</sub> was implemented using a 2-input AND gate. We instantiated a module called mq_4bit which takes in a 4-bit signal * *m * * and 1-bit signal * *q* *. Using full adders and mq_4-bit modules, we were able to create a  multiplier. The multiplier takes in 4-bit inputs and outputs 8-bit results.
+A binary multiplier can be implemented through multiple instantiations of Ripple Carry Adders, however they are inefficient since each operation is dependent on receiving preceding carries in order for the final output to be displayed. To combat this in the implementation of our Multiplier circuit, we used a **carry save array** configuration. m<sub>i</sub>q<sub>j</sub> was implemented using a 2-input AND gate. We instantiated a module called mq_4bit which takes in a 4-bit signal * *m* * and 1-bit signal * *q* *. Using full adders and mq_4-bit modules, we were able to create a  multiplier. The multiplier takes in 4-bit inputs and outputs 8-bit results.
 
 Part 1 Simulation Results:
 ![Lab 1 Simulation](https://github.com/Spring-2023-Classes/lab-1-building-multiplier-and-simple-calculator-unpaid-interns/blob/main/Lab_1_Part_1/Lab%201%20Simulation.png)
