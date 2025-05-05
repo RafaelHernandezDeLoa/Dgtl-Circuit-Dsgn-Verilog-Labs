@@ -8,3 +8,6 @@ For this midterm, I had to create an average calculator that can calculate the a
 ## Midterm 2 Testbench:
 ![Midterm 2 Testbench](https://github.com/Spring-2023-Classes/sp23-midterm-exam-2-RafaelHernandezDeLoa/blob/d6a1bda965ca9160037e0ec9e5dba3a5230bbf50/Midterm_2_Testbench.png)
 Note: The average_reg results are in hexidecimal.
+
+## Finite State Diagram:
+![Finite State Diagram](https://github.com/Spring-2023-Classes/sp23-midterm-exam-2-RafaelHernandezDeLoa/blob/d6a1bda965ca9160037e0ec9e5dba3a5230bbf50/Finite_State_Diagram.png)
