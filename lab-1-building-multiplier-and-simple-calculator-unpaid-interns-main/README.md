@@ -1,5 +1,5 @@
 # Lab 1 - Building a Multiplier Circuit and Simple Calculator
-## Unpaid Interns: Carlos Zarco and Rafael Hernandez
+## Group: Unpaid Interns
 ### Due: 2/8/2023
 
 <ins>Part 1:</ins>
