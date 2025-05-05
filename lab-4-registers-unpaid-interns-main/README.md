@@ -1,18 +1,18 @@
 # lab-4-registers-unpaid-interns
 lab-4-registers-unpaid-interns created by GitHub Classroom
-## Unpaid Interns: Carlos Zarco and Rafael Hernandez
+## Group: Unpaid Interns
 ### Due: 3/1/2023
 
 <ins>Part 1: Building a Register File</ins>
-In part 1 we are a building a register file *reg_file* made up of flip flops. The register file contains 2<sup>N</sup> registers (rows) and each row is of size BITS (columns). There is a
-read and a write port. The user can user can access the register file for reading and writing simultaneously. 
+In part 1, we are a building a register file, *reg_file*, made up of flip flops. The register file contains 2<sup>N</sup> registers (rows) and each row is of size BITS (columns). There is a
+read and a write port. The user can access the register file for reading and writing simultaneously. 
 
 To Write:
 *data_w* is an input used for the data the user wants to write into the file reg. The user must also specify the address *address_w* to write the data to. There is 
 also the input Write enable *WE*. If the write enable is 1, the data will be written into the specified address of the file reg. 
 
 To Read:
-To read the data from a specified address the user mus input the specified address to the input *address_r*. The output *data_r* will then contain the value at the 
+To read the data from a specified address, the user must input the specified address to the input *address_r*. The output *data_r* will then contain the value at the 
 specified address.
 
 The Reg file is parametrized. The two parameters are N and BITS. BITS represents the data to be inputted and the Reg File wil create 2^N registers depending on its value. 
