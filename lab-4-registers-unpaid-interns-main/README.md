@@ -23,14 +23,14 @@ Part 1 Schematic:
 ![Lab 3 Part 1 Schematic](https://github.com/Spring-2023-Classes/lab-4-registers-unpaid-interns/blob/main/Lab_4_Part_1/Lab4p1_schematic.jpg)
 
 <ins>Part 1: Register File application</ins>
-Part 1, also has a module called *reg_file_application* which 
+Part 1, also has a module called *reg_file_application* which combines our other modules to create a readable and writeable register file.
 
 I/0 implementation for reg_file_application:
 - SW 3 <- SW0  are connected to data_w 
 - SW10 <- SW4 are used to specify address_w or address_r
 - SW15 specifies reading or writing. If SW15 is a 1, then SW10 <- SW4 = read address. If SW15 = 0, SW10 <- SW4 is the write address
 - WE is connected to the down push button
-- data_r is connected to one of the seven sseg digits
+- data_r is connected to one of the seven seg digits
 
 
 <ins>Part 2: Building an Accumulator (WREG) </ins>
