@@ -10,4 +10,4 @@ For this midterm, I had to create an average calculator that can calculate the a
 Note: The average_reg results are in hexidecimal.
 
 ## Finite State Diagram:
-[![Finite State Diagram]([[https://github.com/Spring-2023-Classes/sp23-midterm-exam-2-RafaelHernandezDeLoa/blob/d6a1bda965ca9160037e0ec9e5dba3a5230bbf50/Finite_State_Diagram.png](https://github.com/RafaelHernandezDeLoa/Dgtl-Circuit-Dsgn-Verilog-Labs/blob/main/sp23-midterm-exam-2-RafaelHernandezDeLoa-aae09a7a7681243c28a3733cdf7ad9b0f81df596/Finite%20State%20Diagram.png)](https://github.com/RafaelHernandezDeLoa/Dgtl-Circuit-Dsgn-Verilog-Labs/blob/main/sp23-midterm-exam-2-RafaelHernandezDeLoa-aae09a7a7681243c28a3733cdf7ad9b0f81df596/Finite_State_Diagram.png))](https://github.com/RafaelHernandezDeLoa/Dgtl-Circuit-Dsgn-Verilog-Labs/blob/main/sp23-midterm-exam-2-RafaelHernandezDeLoa-aae09a7a7681243c28a3733cdf7ad9b0f81df596/Finite_State_Diagram.png)
+![Finite State Diagram](https://github.com/Spring-2023-Classes/sp23-midterm-exam-2-RafaelHernandezDeLoa/blob/d6a1bda965ca9160037e0ec9e5dba3a5230bbf50/Finite_State_Diagram.png)
