@@ -1,17 +1,17 @@
 # lab-7-finite-state-machines-fsms-unpaid-interns
 lab-7-finite-state-machines-fsms-unpaid-interns created by GitHub Classroom
-## Unpaid Interns: Carlos Zarco and Rafael Hernandez
+## Group: Unpaid Interns
 ### Due: 3/22/2023
 
 <ins>Part 1: Finite State Machines (FSMs)</ins>
-Dual Sequence Detector: This is a Mealy FSM with an input x, output y, clock, and reset_n input. It detects the following two sequences: 010 and 1001. It allows overlap. Since it is a Mealy maching the input x should be in the assignment statement for y. 
+Dual Sequence Detector: This is a Mealy FSM with an input x, output y, clock, and reset_n input. It detects the following two sequences: 010 and 1001. It allows overlap. Since it is a Mealy, matching the input x should be in the assignment statement for y. 
 
-Even Odd Consequutive: This is a Moore FSM with an input x, output y, clock, and reset_n input. It is asserted when the number of 1's received is odd and at lest two consequtive 0's have been received.
+Even Odd Consecutive: This is a Moore FSM with an input x, output y, clock, and reset_n input. It is asserted when the number of 1's received is odd and at lest two consecutive 0's have been received.
 
 Lab 7 Part 1: Dual Sequence Detector State Diagram shown below.
 ![Lab 7 Dual Sequence Detector State Diagram](https://github.com/Spring-2023-Classes/lab-7-finite-state-machines-fsms-unpaid-interns/blob/main/Lab7_p1/dual_sequence_lab7_part1.png)
 
-Lab 7 Part 1: Even Odd Consequtive State Diagram shown below.
+Lab 7 Part 1: Even Odd Consecutive State Diagram shown below.
 ![Lab 7 Dual Sequence Detector State Diagram](https://github.com/Spring-2023-Classes/lab-7-finite-state-machines-fsms-unpaid-interns/blob/main/Lab7_p1/Even_odd_lab7_part1.png)
 
 <ins>Part 2: 111 and 000 Sequence Detector Finite State Machines (FSMs)</ins>
