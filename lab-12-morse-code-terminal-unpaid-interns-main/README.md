@@ -1,6 +1,6 @@
 # lab-12-morse-code-terminal-unpaid-interns
 lab-12-morse-code-terminal-unpaid-interns created by GitHub Classroom
-## Unpaid Interns: Carlos Zarco and Rafael Hernandez
+## Group: Unpaid Interns
 ### Due: 5/3/2023
 
 <ins> Morse Code Terminal</ins>
